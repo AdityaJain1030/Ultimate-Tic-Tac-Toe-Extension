@@ -8,6 +8,7 @@ A chrome extension that lets you play Ultimate Tic-tac-Toe. JS Implementation ba
 4. Type _ultimate tic tac toe_ or just click the icon
 5. Enjoy!!
 
-___Thanks to @andylolz for the game!!___ 
-Original Game: 
+***Thanks to @andylolz for the game!!***
+ 
+Original Game Here: 
 (https://github.com/andylolz/ultimate-tic-tac-toe)

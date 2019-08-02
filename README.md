@@ -12,3 +12,6 @@ A chrome extension that lets you play Ultimate Tic-tac-Toe. JS Implementation ba
  
 Original Game Here: 
 https://github.com/andylolz/ultimate-tic-tac-toe
+
+
+Extension By @AdityaJain1030 

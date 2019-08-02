@@ -1,6 +1,6 @@
 /**
  * By @AdityaJain1030
- = https://github.com/andylolz/ultimate-tic-tac-toe
+ * https://github.com/AdityaJain1030/Ultimate-Tic-Tac-Toe-Extension
  *
  * code heavily based upon: @andylolz
  * https://github.com/andylolz/ultimate-tic-tac-toe
